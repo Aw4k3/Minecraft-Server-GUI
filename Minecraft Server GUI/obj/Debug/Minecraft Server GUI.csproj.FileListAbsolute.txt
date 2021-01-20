@@ -1,0 +1,19 @@
+C:\Users\Potato PC\source\repos\Minecraft Server GUI\Minecraft Server GUI\bin\Debug\Minecraft Server GUI.exe.config
+C:\Users\Potato PC\source\repos\Minecraft Server GUI\Minecraft Server GUI\bin\Debug\Minecraft Server GUI.exe
+C:\Users\Potato PC\source\repos\Minecraft Server GUI\Minecraft Server GUI\bin\Debug\Minecraft Server GUI.pdb
+C:\Users\Potato PC\source\repos\Minecraft Server GUI\Minecraft Server GUI\obj\Debug\Minecraft Server GUI.csprojAssemblyReference.cache
+C:\Users\Potato PC\source\repos\Minecraft Server GUI\Minecraft Server GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Potato PC\source\repos\Minecraft Server GUI\Minecraft Server GUI\obj\Debug\App.g.cs
+C:\Users\Potato PC\source\repos\Minecraft Server GUI\Minecraft Server GUI\obj\Debug\Minecraft Server GUI_MarkupCompile.cache
+C:\Users\Potato PC\source\repos\Minecraft Server GUI\Minecraft Server GUI\obj\Debug\Minecraft Server GUI_MarkupCompile.lref
+C:\Users\Potato PC\source\repos\Minecraft Server GUI\Minecraft Server GUI\obj\Debug\MainWindow.baml
+C:\Users\Potato PC\source\repos\Minecraft Server GUI\Minecraft Server GUI\obj\Debug\Minecraft Server GUI.g.resources
+C:\Users\Potato PC\source\repos\Minecraft Server GUI\Minecraft Server GUI\obj\Debug\Minecraft_Server_GUI.Properties.Resources.resources
+C:\Users\Potato PC\source\repos\Minecraft Server GUI\Minecraft Server GUI\obj\Debug\Minecraft Server GUI.csproj.GenerateResource.cache
+C:\Users\Potato PC\source\repos\Minecraft Server GUI\Minecraft Server GUI\obj\Debug\Minecraft Server GUI.exe
+C:\Users\Potato PC\source\repos\Minecraft Server GUI\Minecraft Server GUI\obj\Debug\Minecraft Server GUI.pdb
+C:\Users\Potato PC\source\repos\Minecraft Server GUI\Minecraft Server GUI\obj\Debug\NumUpDown.g.cs
+C:\Users\Potato PC\source\repos\Minecraft Server GUI\Minecraft Server GUI\obj\Debug\NumUpDown.baml
+C:\Users\Potato PC\source\repos\Minecraft Server GUI\Minecraft Server GUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Potato PC\source\repos\Minecraft Server GUI\Minecraft Server GUI\obj\Debug\ColorPicker.g.cs
+C:\Users\Potato PC\source\repos\Minecraft Server GUI\Minecraft Server GUI\obj\Debug\ColorPicker.baml
